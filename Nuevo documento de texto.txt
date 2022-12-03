@@ -1,0 +1,2 @@
+for of para arrays
+for in para objetos

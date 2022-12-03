@@ -518,6 +518,20 @@ function reusableFunction(){
   reusableFunction();
 
 
+  let vector = [8,3,5,7,1,11,15,2];
+  let mayor;
+
+  for(let i=0; i<vector.length; i++){
+
+    if(vector[i]> mayor){
+
+      mayor= vector[i];
+
+    }
+
+  }
+
+console.log(mayor);
 
 
 
